@@ -9,4 +9,6 @@ Palvelinten hallinta github sivu tehtävä 0
 
 **Toimii**
 
+~~EI toimi~~
+
 https://github.com/lansiri/Palvelinten-Hallinta-h0
