@@ -6,4 +6,7 @@ Palvelinten hallinta github sivu tehtävä 0
 ```
   koodi esimerkki
 ```
+
+**Toimii**
+
 https://github.com/lansiri/Palvelinten-Hallinta-h0
