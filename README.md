@@ -4,6 +4,6 @@ Palvelinten hallinta github sivu tehtävä 0
 
 ## Esimerkki readme
 
-  <koodi> //esimerkkikoodi
+  <koodi>
 
 https://github.com/lansiri/Palvelinten-Hallinta-h0
